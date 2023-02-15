@@ -1,5 +1,5 @@
 # Bienvenido a mi página de GitHub
-![Carolina Morales](https://github.com/Sheznarda1120/csmm.github.io/blob/f29b7491bb8fa74ad39f88d9d695ad2886cc243d/Carolina_Morales.png)
+![Carolina Morales](https://github.com/Sheznarda1120/pagina_web.github.io/blob/d6caacb3319987f8ecab021dd0d45ad25c001f2b/Carolina_Morales.png)
 
 Hola, mi nombre es Carolina Morales Moreira y este es mi sitio en GitHub Pages. Este sitio es una forma para compartir información sobre mí y mi trabajo con el mundo.
 
